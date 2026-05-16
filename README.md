@@ -105,3 +105,9 @@ The project successfully performed statistical analysis, generated visualization
 - R Documentation
 - Quarto Documentation
 - Shiny Documentation
+#MEMBER CONRIBUTION
+Mercy Wanjiru -25%
+Larry Gastine-25%
+Valentine mureithi-25%
+Emmanuel Amani-25%
+TOTAL=100%
